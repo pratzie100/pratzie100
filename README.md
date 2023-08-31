@@ -103,7 +103,7 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="pratzie100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="Pratyush Kargeti" />
 </p>
 
 <!--- M Y   T O P   R E P O --->
