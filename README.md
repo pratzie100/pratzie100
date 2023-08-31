@@ -80,17 +80,17 @@
 
 <h2 align="center"> 📊 STATISTICS  </h2>
 <p align="center">
-  <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="justify" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
+  <a href="https://github.com/pratzie100/github-readme-stats">
+    <img align="justify" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratzie100&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
   </a>
-  <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/pratzie/github-readme-stats">
+    <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratzie100&layout=compact&theme=tokyonight&hide_border=true" />
   </a> 
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=react" width="600" alt="Profile Details" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratzie100&theme=react" width="600" alt="Profile Details" />
   </a>
 </p>
 
@@ -103,7 +103,7 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=radical" alt="PratyushKargeti" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="pratzie100" />
 </p>
 
 <!--- M Y   T O P   R E P O --->
@@ -112,9 +112,9 @@
 <br>
 <div align="center">
 
-[![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
+[![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pratzie100&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/pratzie100/Leetcode)
 <p align="right">
-  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
+  <a href="https://github.com/pratzie100?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
 </p>
 
 </div>
