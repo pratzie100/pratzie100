@@ -103,8 +103,10 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="pratzie100" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="pratzie100" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pratzie100&theme=radical)](https://git.io/streak-stats)
 </p>
+
 
 <!--- M Y   T O P   R E P O --->
 
