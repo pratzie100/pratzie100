@@ -102,9 +102,10 @@
 </p>
 
 <h2 align="center">🔥 GitHub Streaks</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pratzie100&theme=radical)](https://git.io/streak-stats)
 <p align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratzie100&theme=radical" alt="pratzie100" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=pratzie100&theme=radical)](https://git.io/streak-stats)
+  
 </p>
 
 
