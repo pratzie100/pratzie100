@@ -18,7 +18,7 @@
 </ul>
 
 <div align="center">
-<img src="  https://tenor.com/en-IN/view/blue-code-wall-gif-11570089">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYzeDZiNGVubXo2aWF1OHFvemc0ZzRpYWplc3UzNXBmYWowY2NncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lbcLMX9B6sTsGjUmS3/giphy.gif">
 
 </div>
 
