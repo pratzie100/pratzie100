@@ -18,8 +18,8 @@
 </ul>
 
 <div align="center">
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-
+<!-- <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+ -->
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21qaDc3bHhpOGowZ2Flb3ljdTBtdWR2ZHk2b2F4ZDVxN3V2MDBsYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lbcLMX9B6sTsGjUmS3/giphy.gif">
 </div>
