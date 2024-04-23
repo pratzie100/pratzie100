@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
-<h3 align="center">I'm a CS undergrad student interested in coding and exploring in-depth concepts</h3>
+<h3 align="center"> I like to explore new technologies and understand in-depth concepts. Solving coding problems is also one of my hobby. </h3>
 
 <p align="center">
   <a href="#">
