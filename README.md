@@ -4,8 +4,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
-<h3 align="center"> I like to explore new technologies and understand in-depth concepts. Solving coding problems is also one of my hobby. </h3>
-
 <p align="center">
   <a href="#">
     <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+🤗;Have+a+great+day+😎">
@@ -15,6 +13,9 @@
 <ul>
   <li><small><strong>🎓 Pursuing B.Tech in Computer Science and Engineering at Graphic Era University, Dehradun</strong></small></li>
   <li><small><strong>⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌</strong></small></li>
+  <li><small><strong>🚀 I like to explore new technologies and understand in-depth concepts. </strong></small></li>
+  <li><small><strong>💻 Solving coding problems is also one of my hobby.</strong></small></li>
+  <li><small><strong>🙂 I believe we should never give up, believe in ourselves and keep pushing harder to achieve our goals.</strong></small></li>
 </ul>
 
 <div align="center">
