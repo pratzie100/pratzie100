@@ -11,7 +11,7 @@
 </p>
 
 <ul>
-  <li><small><strong>🎓 Pursuing B.Tech in Computer Science and Engineering at Graphic Era University, Dehradun</strong></small></li>
+  <li><small><strong>🎓 B.Tech Graduate (2025) in Computer Science and Engineering from Graphic Era University, Dehradun</strong></small></li>
   <li><small><strong>⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😁</strong></small></li>
   <li><small><strong>🚀 I like to explore new technologies and understand in-depth concepts. </strong></small></li>
   <li><small><strong>💻 Solving coding problems is also one of my hobby.</strong></small></li>
