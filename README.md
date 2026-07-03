@@ -114,6 +114,7 @@
 <div align="center">
 
 [![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pratzie100&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/pratzie100/Leetcode)
+[![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pratzie100&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/pratzie100/codeforces)
 <p align="right">
   <a href="https://github.com/pratzie100?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
 </p>
