@@ -11,11 +11,11 @@
 </p>
 
 <ul>
-  <li><small><strong>🎓 B.Tech Graduate (2025) in Computer Science and Engineering from Graphic Era University, Dehradun</strong></small></li>
-  <li><small><strong>⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😁</strong></small></li>
-  <li><small><strong>🚀 I like to explore new technologies and understand in-depth concepts. </strong></small></li>
-  <li><small><strong>💻 Solving coding problems is also one of my hobby.</strong></small></li>
-  <li><small><strong>🙂 Every failure is a step towards success :) so keep moving ahead:D</strong></small></li>
+  <li><small><strong>🎓 B.Tech (2025) in Computer Science & Engineering from Graphic Era University, Dehradun.</strong></small></li>
+  <li><small><strong>💻 Passionate about software development, problem-solving, and building projects that solve real-world problems.</strong></small></li>
+  <li><small><strong>🚀 Always curious to learn new technologies and understand how things work under the hood.</strong></small></li>
+  <li><small><strong>🧩 Enjoy solving Data Structures & Algorithms problems to improve logical thinking.</strong></small></li>
+  <li><small><strong>📈 Continuously learning, building, and improving—one step at a time.</strong></small></li>
 </ul>
 
 <div align="center">
