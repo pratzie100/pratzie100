@@ -11,11 +11,11 @@
 </p>
 
 <ul>
-  <li><small><strong>🎓 B.Tech Graduate (2025) in Computer Science & Engineering from Graphic Era University, Dehradun.</strong></small></li>
-  <li><small><strong>💻 Passionate about Computer Science, Software Development, AI, and problem-solving.</strong></small></li>
+  <li><small><strong>🎓 B.Tech (2025) in Computer Science & Engineering from Graphic Era University, Dehradun.</strong></small></li>
+  <li><small><strong>💻 Passionate about Computer Science, Software Development, AI, ML, and problem-solving.</strong></small></li>
   <li><small><strong>🚀 Always curious to learn new technologies and building useful projects.</strong></small></li>
   <li><small><strong>🧩 Enjoy practicing DSA and Competitive Programming.</strong></small></li>
-  <li><small><strong>🙂 Progress over perfection.. improving—one step at a time.</strong></small></li>
+  <li><small><strong>🙂 Progress over perfection | improving one step at a time.</strong></small></li>
 </ul>
 
 <div align="center">
